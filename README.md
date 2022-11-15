@@ -1,3 +1,5 @@
+This repository is localted [there](https://github.com/ticketsyncs/clockfarm).
+
 <img alt="Alarm logo" src="alarm.svg" width="92px"/>
 
 [![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
@@ -9,5 +11,3 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/h1alexbel/ticket-harvest-sync)
 [![Hits-of-Code](https://hitsofcode.com/github/h1alexbel/ticket-harvest-sync)](https://hitsofcode.com/view/github/h1alexbel/ticket-harvest-sync)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/h1alexbel/ticketsyncs/blob/master/LICENSE)
-
-Ticket-Harvest-Sync is a tool that synchronize spent time on tickets in Ticket Systems like Jira, or GitHub Projects with Harvest Tracking App.
